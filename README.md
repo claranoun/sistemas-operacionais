@@ -1,1 +1,1 @@
-# sistemas-operacionais
+Repositório p/ sistemas operacionais de redes
